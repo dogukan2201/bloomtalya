@@ -8,7 +8,7 @@ export default function Banner({ title }: { title: string }) {
   return (
     <div className="relative w-full h-[250px] md:h-[300px]">
       <Image
-        src="/assets/hero/bg.jpg"
+        src="/assets/hero/heroBg.webp"
         fill // Use fill to cover the parent div
         className="absolute inset-0"
         alt="banner"
