@@ -15,9 +15,9 @@ export default function RoomDetailPage() {
     {
       id: "jacuzziRoom",
       images: [
-        "/jakuziPhoto/jakuzi1.jpg",
-        "/jakuziPhoto/jakuzi2.jpg",
-        "/jakuziPhoto/jakuzi3.jpg",
+        "/jakuziPhoto/jakuzi1.webp",
+        "/jakuziPhoto/jakuzi2.webp",
+        "/jakuziPhoto/jakuzi3.webp",
       ],
     },
   ];

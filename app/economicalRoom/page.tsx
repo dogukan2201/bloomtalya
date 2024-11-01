@@ -15,9 +15,9 @@ export default function RoomDetailPage() {
     {
       id: "ekonomikRoom",
       images: [
-        "/ekonomikPhoto/ekonomik1.jpeg",
-        "/ekonomikPhoto/ekonomik2.jpg",
-        "/ekonomikPhoto/ekonomik3.jpg",
+        "/ekonomikPhoto/ekonomik1.webp",
+        "/ekonomikPhoto/ekonomik2.webp",
+        "/ekonomikPhoto/ekonomik3.webp",
       ],
     },
   ];

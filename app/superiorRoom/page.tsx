@@ -11,9 +11,9 @@ const rooms = [
   {
     id: "superiorRoom",
     images: [
-      "/superiorPhoto/superior1.jpg",
-      "/superiorPhoto/superior2.jpg",
-      "/superiorPhoto/superior3.jpg",
+      "/superiorPhoto/superior1.webp",
+      "/superiorPhoto/superior2.webp",
+      "/superiorPhoto/superior3.webp",
     ],
   },
 ];

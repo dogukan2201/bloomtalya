@@ -9,31 +9,31 @@ const rooms = [
   {
     id: "jacuzziRoom",
     price: 3256,
-    image: "/jakuziPhoto/jakuzi3.jpg",
+    image: "/jakuziPhoto/jakuzi3.webp",
     maxGuests: 2,
   },
   {
     id: "familyRoom",
     price: 1985,
-    image: "/ailePhoto/aileOdası.jpg",
+    image: "/ailePhoto/aileOdası1.webp",
     maxGuests: 4,
   },
   {
     id: "standardRoom",
     price: 1760,
-    image: "/standartPhoto/standart1.jpg",
+    image: "/standartPhoto/standart1.webp",
     maxGuests: 3,
   },
   {
     id: "economicalRoom",
     price: 1375,
-    image: "/ekonomikPhoto/ekonomik1.jpeg",
+    image: "/ekonomikPhoto/ekonomik1.webp",
     maxGuests: 2,
   },
   {
     id: "superiorRoom",
     price: 2000,
-    image: "/superiorPhoto/superior1.jpg",
+    image: "/superiorPhoto/superior1.webp",
     maxGuests: 2,
   },
 ];

@@ -14,11 +14,7 @@ export default function RoomDetailPage() {
   const rooms = [
     {
       id: "familyRoom",
-      images: [
-        "/ailePhoto/aileOdası.jpg",
-        "/ailePhoto/aileOdası2.jpg",
-        "/ailePhoto/aileOdası3.jpg",
-      ],
+      images: ["/ailePhoto/aileOdası1.webp"],
     },
   ];
 

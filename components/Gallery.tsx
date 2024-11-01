@@ -2,51 +2,51 @@ import { Card, CardHeader } from "@/components/ui/card";
 import Link from "next/link";
 const imageData = [
   {
-    src: "/ekonomikPhoto/ekonomik1.jpeg",
+    src: "/ekonomikPhoto/ekonomik1.webp",
     alt: "Image 1",
   },
   {
-    src: "/jakuziPhoto/jakuzi1.jpg",
+    src: "/jakuziPhoto/jakuzi1.webp",
     alt: "Image 2",
   },
   {
-    src: "/standartPhoto/standart1.jpg",
+    src: "/standartPhoto/standart1.webp",
     alt: "Image 3",
   },
   {
-    src: "/ekonomikPhoto/ekonomik2.jpg",
+    src: "/ekonomikPhoto/ekonomik2.webp",
     alt: "Image 4",
   },
   {
-    src: "/jakuziPhoto/jakuzi2.jpg",
+    src: "/jakuziPhoto/jakuzi2.webp",
     alt: "Image 5",
   },
   {
-    src: "/ekonomikPhoto/ekonomik3.jpg",
+    src: "/ekonomikPhoto/ekonomik3.webp",
     alt: "Image 6",
   },
   {
-    src: "/standartPhoto/standart1.jpg",
+    src: "/standartPhoto/standart1.webp",
     alt: "Image 7",
   },
   {
-    src: "/jakuziPhoto/jakuzi3.jpg",
+    src: "/jakuziPhoto/jakuzi3.webp",
     alt: "Image 8",
   },
   {
-    src: "/standartPhoto/standart2.jpg",
+    src: "/standartPhoto/standart2.webp",
     alt: "Image 9",
   },
   {
-    src: "/superiorPhoto/superior1.jpg",
+    src: "/superiorPhoto/superior1.webp",
     alt: "Image 10",
   },
   {
-    src: "/superiorPhoto/superior2.jpg",
+    src: "/superiorPhoto/superior2.webp",
     alt: "Image 11",
   },
   {
-    src: "/superiorPhoto/superior3.jpg",
+    src: "/superiorPhoto/superior3.webp",
     alt: "Image 12",
   },
 ];
