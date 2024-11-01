@@ -117,14 +117,14 @@
   },
   "Ekonomik": {
     "info": "Ekonomik Oda",
-    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 yetişkin ve 1 çocuk konaklaması için uygundur.",
+    "description": "Modern dizayn edilmiş odamızda 1 adet çift kişilik yatak mevcuttur. En fazla 2 kişi konaklaması için uygundur.",
     "price": "1375₺ / Gecelik",
     "tabAbout": "Oda Özellikleri",
     "reserveButton": "Rezervasyon Yap"
   },
   "JacuzziRoom": {
     "info": "Jakuzili Suite Oda",
-    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 yetişkin ve 1 çocuk konaklaması için uygundur. Odalarımız genel anlamda temiz ve kullanışlıdır. Odalarımız hakkında daha fazla bilgi almak için WhatsApp numaramızdan bizlere ulaşabilir veya bizleri direkt arayabilirsiniz.",
+    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik king size yatak mevcuttur. En fazla 2 Yetişkin konaklaması için uygundur.",
     "price": "3256₺ / Gecelik",
     "tabAbout": "Oda Özellikleri",
     "reserveButton": "Rezervasyon Yap"
@@ -132,21 +132,21 @@
   "FamilyRoom": {
     "info": "Aile Odası",
     "tabAbout": "Oda Özellikleri",
-    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 yetişkin ve 1 çocuk konaklaması için uygundur.",
+    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 Yetişkin ve 1 çocuk konaklaması için uygundur.4 Yetişkin kalması durumunda önceden haber verilerek extra yatak sağlanmaktadır.",
     "price": "1985₺ / Gecelik",
     "reserveButton": "Rezervasyon Yap"
   },
   "StandardRoom": {
     "info": "Standart Oda",
     "tabAbout": "Oda Özellikleri",
-    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 yetişkin ve 1 çocuk konaklaması için uygundur.",
+    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik yatak mevcuttur. En fazla 2 kişi konaklaması için uygundur.",
     "price": "1760₺ / Gecelik",
     "reserveButton": "Rezervasyon Yap"
   },
   "SuperiorRoom": {
     "info": "Superior Oda",
     "tabAbout": "Oda Özellikleri",
-    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik ve 1 adet tek kişilik yatak mevcuttur. En fazla 3 yetişkin ve 1 çocuk konaklaması için uygundur.",
+    "description": "Modern şekilde dizayn edilen odamızda 1 adet çift kişilik yatak ,1 adet tek kişilik yatak mevcuttur. En fazla 3 kişi konaklaması için uygundur.",
     "price": "2000₺ / Gecelik",
     "reserveButton": "Rezervasyon Yap"
   },

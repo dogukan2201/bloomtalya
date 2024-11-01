@@ -117,14 +117,14 @@
   },
   "Ekonomik": {
     "info": "Economy Room",
-    "description": "Our room, designed in a modern style, includes one double bed and one single bed. Suitable for up to 3 adults and 1 child.",
+    "description": "Modernly designed room with one double bed. Suitable for a maximum of 2 guests.",
     "price": "1375₺ / Per Night",
     "tabAbout": "Room Features",
     "reserveButton": "Make a Reservation"
   },
   "JacuzziRoom": {
     "info": "Jacuzzi Suite Room",
-    "description": "Our modernly designed room includes one double bed and one single bed. Suitable for up to 3 adults and 1 child. Our rooms are generally clean and functional. For more information, you can reach us via our WhatsApp number or call us directly.",
+    "description": "Modernly designed room with one king-size double bed. Suitable for a maximum of 2 adults.",
     "price": "3256₺ / Per Night",
     "tabAbout": "Room Features",
     "reserveButton": "Make a Reservation"
@@ -132,21 +132,21 @@
   "FamilyRoom": {
     "info": "Family Room",
     "tabAbout": "Room Features",
-    "description": "Our room, designed in a modern style, includes one double bed and one single bed. It is suitable for up to 3 adults and 1 child.",
+    "description": "Modernly designed room with one double bed and one single bed. Suitable for up to 3 adults and 1 child. For 4 adults, an extra bed is provided upon prior request.",
     "price": "1985₺ / Per Night",
     "reserveButton": "Make a Reservation"
   },
   "StandardRoom": {
     "info": "Standard Room",
     "tabAbout": "Room Features",
-    "description": "Our room, designed in a modern style, includes one double bed and one single bed. It is suitable for up to 3 adults and 1 child.",
+    "description": "Modernly designed room with one double bed. Suitable for up to 2 guests.",
     "price": "1760₺ / Per Night",
     "reserveButton": "Make a Reservation"
   },
   "SuperiorRoom": {
     "info": "Superior Room",
     "tabAbout": "Room Features",
-    "description": "Our room, designed in a modern style, includes one double bed and one single bed. It is suitable for up to 3 adults and 1 child.",
+    "description": "Modernly designed room with one double bed and one single bed. Suitable for up to 3 guests.",
     "price": "2000₺ / Per Night",
     "reserveButton": "Make a Reservation"
   },
