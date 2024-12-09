@@ -1,8 +1,3 @@
-
-Here’s a professional README.md content for your GitHub repository:
-
-markdown
-Kodu kopyala
 # Bloomtalya Guesthouse Landing Page  
 
 This project is a modern and user-friendly landing page developed for **Bloomtalya Guesthouse**. It aims to showcase the guesthouse's services, engage potential customers, and simplify the reservation process.  
